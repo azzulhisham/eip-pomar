@@ -1,0 +1,15 @@
+/Users/zultan/sources/eip/pomar/socket-client/socket-client/socket-client/bin/Debug/net7.0/socket-client
+/Users/zultan/sources/eip/pomar/socket-client/socket-client/socket-client/bin/Debug/net7.0/socket-client.deps.json
+/Users/zultan/sources/eip/pomar/socket-client/socket-client/socket-client/bin/Debug/net7.0/socket-client.runtimeconfig.json
+/Users/zultan/sources/eip/pomar/socket-client/socket-client/socket-client/bin/Debug/net7.0/socket-client.dll
+/Users/zultan/sources/eip/pomar/socket-client/socket-client/socket-client/bin/Debug/net7.0/socket-client.pdb
+/Users/zultan/sources/eip/pomar/socket-client/socket-client/socket-client/obj/Debug/net7.0/socket-client.csproj.AssemblyReference.cache
+/Users/zultan/sources/eip/pomar/socket-client/socket-client/socket-client/obj/Debug/net7.0/socket-client.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zultan/sources/eip/pomar/socket-client/socket-client/socket-client/obj/Debug/net7.0/socket-client.AssemblyInfoInputs.cache
+/Users/zultan/sources/eip/pomar/socket-client/socket-client/socket-client/obj/Debug/net7.0/socket-client.AssemblyInfo.cs
+/Users/zultan/sources/eip/pomar/socket-client/socket-client/socket-client/obj/Debug/net7.0/socket-client.csproj.CoreCompileInputs.cache
+/Users/zultan/sources/eip/pomar/socket-client/socket-client/socket-client/obj/Debug/net7.0/socket-client.dll
+/Users/zultan/sources/eip/pomar/socket-client/socket-client/socket-client/obj/Debug/net7.0/refint/socket-client.dll
+/Users/zultan/sources/eip/pomar/socket-client/socket-client/socket-client/obj/Debug/net7.0/socket-client.pdb
+/Users/zultan/sources/eip/pomar/socket-client/socket-client/socket-client/obj/Debug/net7.0/socket-client.genruntimeconfig.cache
+/Users/zultan/sources/eip/pomar/socket-client/socket-client/socket-client/obj/Debug/net7.0/ref/socket-client.dll

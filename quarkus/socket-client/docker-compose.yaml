@@ -1,0 +1,15 @@
+version: "3"
+services:
+  socket-client:
+    image: "zultan/socket-client:1.0.0-SNAPSHOT"
+ 
+    environment:
+      - aisServer=202.129.173.59
+      - aisServerPort=9661
+      - aisKey_new=01434756544D5300434756544D5300
+      - processApp=/var/lib/python3
+      - processScript=/var/lib/AIS_decoder.py
+
+    volumes:
+      - /Users/zultan/sources/eip/pomar:/var/lib
+

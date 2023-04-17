@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Qc3yi6oqXj3glows6KPJu+NU4f6hnnH1nDr8fwv+f+lKou3uXK+xKwiGIpUQ7lgsXbg6Gu2PhMMlB0emeyGsfA==",
+  "dgSpecHash": "oGbLi5eNLrAaJg6Y5gHHjsP4LHSIeANnowok1VSINe9Pp67rMxaN5Kb1bMQbQUUIifqjhn65R58hYYvxGkJn9A==",
   "success": true,
-  "projectFilePath": "/Users/zultan/sources/eip/pomar/socket-client/socket-client/socket-client/socket-client.csproj",
+  "projectFilePath": "/Users/zultan/sources/eip/pomar/dotnet/socket-client/socket-client.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

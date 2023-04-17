@@ -1,0 +1,20 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: socket-client
+  labels:
+    app: socket-client
+spec:
+  containers:
+  - name: socket-client
+    image: azzulhisham/socket-client:1.0.0
+    
+    env:
+    - name: "aisServer"
+      value: "202.129.173.60"
+    - name: "aisServerPort"
+      value: "8040"
+    - name: "aisKey_new"
+      value: "014e4d45415f4d444d004e4d45415f4d444d00"
+
+

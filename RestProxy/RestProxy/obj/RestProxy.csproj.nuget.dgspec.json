@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/zultan/sources/pomar/mmdis/RestProxy/RestProxy/RestProxy.csproj": {}
+    "/Users/zultan/sources/eip/pomar/RestProxy/RestProxy/RestProxy.csproj": {}
   },
   "projects": {
-    "/Users/zultan/sources/pomar/mmdis/RestProxy/RestProxy/RestProxy.csproj": {
+    "/Users/zultan/sources/eip/pomar/RestProxy/RestProxy/RestProxy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/zultan/sources/pomar/mmdis/RestProxy/RestProxy/RestProxy.csproj",
+        "projectUniqueName": "/Users/zultan/sources/eip/pomar/RestProxy/RestProxy/RestProxy.csproj",
         "projectName": "RestProxy",
-        "projectPath": "/Users/zultan/sources/pomar/mmdis/RestProxy/RestProxy/RestProxy.csproj",
+        "projectPath": "/Users/zultan/sources/eip/pomar/RestProxy/RestProxy/RestProxy.csproj",
         "packagesPath": "/Users/zultan/.nuget/packages/",
-        "outputPath": "/Users/zultan/sources/pomar/mmdis/RestProxy/RestProxy/obj/",
+        "outputPath": "/Users/zultan/sources/eip/pomar/RestProxy/RestProxy/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/zultan/.nuget/NuGet/NuGet.Config"

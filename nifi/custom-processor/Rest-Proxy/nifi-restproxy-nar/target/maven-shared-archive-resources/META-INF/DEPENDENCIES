@@ -1,0 +1,79 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+nifi-restproxy-nar
+
+
+From: 'an unknown organization'
+  - project ':json-path' (https://github.com/jayway/JsonPath) com.jayway.jsonpath:json-path:jar:2.7.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'Apache NiFi Project' (https://nifi.apache.org/)
+  - nifi-utils (https://nifi.apache.org/nifi-commons/nifi-utils) org.apache.nifi:nifi-utils:jar:1.20.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+  - nifi-restproxy-processors (https://nifi.apache.org/nifi-nar-bundles/Rest-Proxy/nifi-restproxy-processors) org.zultan:nifi-restproxy-processors:jar:1.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+From: 'Eclipse Foundation' (https://www.eclipse.org)
+  - Jakarta Activation (https://github.com/eclipse-ee4j/jaf/jakarta.activation) com.sun.activation:jakarta.activation:jar:1.2.2
+    License: EDL 1.0  (http://www.eclipse.org/org/documents/edl-v10.php)
+  - istack common utility code runtime (https://projects.eclipse.org/projects/ee4j/istack-commons/istack-commons-runtime) com.sun.istack:istack-commons-runtime:jar:3.0.12
+    License: Eclipse Distribution License - v 1.0  (http://www.eclipse.org/org/documents/edl-v10.php)
+  - Jakarta Activation API jar (https://github.com/eclipse-ee4j/jaf/jakarta.activation-api) jakarta.activation:jakarta.activation-api:jar:1.2.2
+    License: EDL 1.0  (http://www.eclipse.org/org/documents/edl-v10.php)
+  - Jakarta XML Binding API (https://github.com/eclipse-ee4j/jaxb-api/jakarta.xml.bind-api) jakarta.xml.bind:jakarta.xml.bind-api:jar:2.3.3
+    License: Eclipse Distribution License - v 1.0  (http://www.eclipse.org/org/documents/edl-v10.php)
+  - JAXB Runtime (https://eclipse-ee4j.github.io/jaxb-ri/) org.glassfish.jaxb:jaxb-runtime:jar:2.3.5
+    License: Eclipse Distribution License - v 1.0  (http://www.eclipse.org/org/documents/edl-v10.php)
+  - TXW2 Runtime (https://eclipse-ee4j.github.io/jaxb-ri/) org.glassfish.jaxb:txw2:jar:2.3.5
+    License: Eclipse Distribution License - v 1.0  (http://www.eclipse.org/org/documents/edl-v10.php)
+
+From: 'FasterXML' (http://fasterxml.com/)
+  - Jackson-annotations (https://github.com/FasterXML/jackson) com.fasterxml.jackson.core:jackson-annotations:bundle:2.14.1
+    License: The Apache Software License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Jackson-core (https://github.com/FasterXML/jackson-core) com.fasterxml.jackson.core:jackson-core:bundle:2.14.1
+    License: The Apache Software License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - jackson-databind (https://github.com/FasterXML/jackson) com.fasterxml.jackson.core:jackson-databind:bundle:2.14.1
+    License: The Apache Software License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'JSON' (http://json.org/)
+  - org-json-java (http://www.json.org/java/index.html) org.json:org.json:jar:chargebee-1.0
+    License: provided without support or warranty  (http://www.json.org/license.html)
+
+From: 'The Apache Software Foundation' (http://www.apache.org/)
+  - Apache HttpClient (http://hc.apache.org/httpcomponents-client) org.apache.httpcomponents:httpclient:jar:4.5.13
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache HttpCore (http://hc.apache.org/httpcomponents-core-ga) org.apache.httpcomponents:httpcore:jar:4.4.15
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'The Apache Software Foundation' (https://www.apache.org/)
+  - Apache Commons Codec (https://commons.apache.org/proper/commons-codec/) commons-codec:commons-codec:jar:1.15
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Camel :: API (https://www.apache.org/camel/camel-parent/core/camel-api/) org.apache.camel:camel-api:jar:3.20.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Camel :: Base (https://www.apache.org/camel/camel-parent/core/camel-base/) org.apache.camel:camel-base:jar:3.20.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Camel :: Base Engine (https://www.apache.org/camel/camel-parent/core/camel-base-engine/) org.apache.camel:camel-base-engine:jar:3.20.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Camel :: Cluster (https://www.apache.org/camel/camel-parent/core/camel-cluster/) org.apache.camel:camel-cluster:jar:3.20.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Camel :: Core Model (https://www.apache.org/camel/camel-parent/core/camel-core-model/) org.apache.camel:camel-core-model:jar:3.20.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Camel :: Core Processor (https://www.apache.org/camel/camel-parent/core/camel-core-processor/) org.apache.camel:camel-core-processor:jar:3.20.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Camel :: File (https://www.apache.org/camel/camel-parent/components/camel-file/) org.apache.camel:camel-file:jar:3.20.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Camel :: JSon Path (https://www.apache.org/camel/camel-parent/components/camel-jsonpath/) org.apache.camel:camel-jsonpath:jar:3.20.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Camel :: Management API (https://www.apache.org/camel/camel-parent/core/camel-management-api/) org.apache.camel:camel-management-api:jar:3.20.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Camel :: Support (https://www.apache.org/camel/camel-parent/core/camel-support/) org.apache.camel:camel-support:jar:3.20.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Camel :: Util (https://www.apache.org/camel/camel-parent/core/camel-util/) org.apache.camel:camel-util:jar:3.20.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+
+
+
